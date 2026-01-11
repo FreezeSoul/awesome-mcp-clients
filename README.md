@@ -65,6 +65,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [LobeHub](#lobehub)
     - [MCP Chatbot](#mcp-chatbot)
     - [MCP CLI client](#mcp-cli-client)
+    - [MCPHost](#mcphost)
     - [MCP Playground](#mcp-playground)
     - [McPico](#mcpico)
     - [MCP Simple Slackbot](#mcp-simple-slackbot)
@@ -1072,6 +1073,20 @@ A simple CLI to run LLM prompt and implement MCP client.
 ![](./screenshots/mcp-cli-client/usage.png)
 
 </details>
+
+### MCPHost
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/anthropics/mcp-use-cases</td></tr>
+<tr><th align="left">Website</th><td>https://mcphost.link</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>Web app</td></tr>
+<tr><th align="left">Platforms</th><td>Web</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript</td></tr>
+</table>
+
+MCPHost is a multi-server MCP client web application. It allows you to connect to multiple MCP servers simultaneously and manage your server configurations with persistence. Features include GitHub login for syncing server lists across devices and a streamlined interface for interacting with server tools, resources, and prompts.
 
 ### MCP Playground
 
